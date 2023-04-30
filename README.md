@@ -4,8 +4,8 @@ I **help developers learn** because I like **code**, **words**, and **people**. 
 
 ---
 Reach out to me about:
-- **Developer education:** I've been teaching developers for over five years. I can do both high-level planning and nuts-and-bolts implementation.
-- **DevOps:** As a Staff Education Engineer at CircleCI, I'm helping devs achieve velocity and confidence with the tools and best practices that will help them move forward.
+- **Developer education & docs:** I've been teaching developers for over five years. I can do both high-level planning and nuts-and-bolts implementation. Check out [How to Make a Docs Site: Shortcuts for Busy Devs](https://github.com/jablonskidev/how-to-make-a-docs-site).
+- **DevOps:** As a Staff Education Engineer at CircleCI, I helped devs achieve velocity and confidence with the tools and best practices that will help them move forward.
 - **NLP:** I love programming languages and natural languages equally. To see a sample of my work, google `nlp python`. My [tutorial](https://realpython.com/nltk-nlp-python/) is the first result.
 - **Interpreters:** I'm interested in programming languages as tools that are designed, built, maintained, and improved. I was the primary reviewer on the book *CPython Internals* by Anthony Shaw. I'm sharing my [study notes](https://github.com/jablonskidev/writing-an-interpreter-in-go) for *Writing and Interpreter in Go* by Thorsten Ball on GitHub.
  
