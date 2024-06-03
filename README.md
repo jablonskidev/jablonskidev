@@ -16,7 +16,7 @@ To see samples of my work, check out:
 - [400+ Python tutorials:](https://realpython.com/team/jjablonski/) I wrote, reviewed, and published hundreds of tutorials when I was running the curriculum at [Real Python](https://realpython.com/).
 - [Python Language Summit:](https://pyfound.blogspot.com/2021/05/the-2021-python-language-summit.html) I wrote technical articles about proposed changes to the Python language for the Python Software Foundation.
 - [Writing an Interpreter in Go: Study Notes & Code:](https://github.com/jablonskidev/writing-an-interpreter-in-go) I'm learning more about interpreters and sharing my knowledge.
-- [How to Make a Docs Site: Shortcuts for Busy Devs:](https://github.com/jablonskidev/how-to-make-a-docs-site) After planning the replatforming of CircleCI's docs site, I condensed my knowledge for busy devs who are new to docs. I also gave a [conference talk](https://www.youtube.com/watch?v=N3mO4MEtpwA) at PyLadiesCon.
+- [How to Make a Docs Site: Shortcuts for Busy Devs:](https://github.com/jablonskidev/how-to-make-a-docs-site) After planning the replatforming of CircleCI's docs site, I condensed my knowledge for busy devs who are new to docs. I also gave a [conference talk](https://www.youtube.com/watch?v=N3mO4MEtpwA).
 
 ---
 Feel free to reach out:
