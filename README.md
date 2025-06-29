@@ -1,13 +1,12 @@
-# Let's Help Developers Learn
+# Let's help developers learn
 
 I **help developers learn** because I like **code**, **words**, and **people**. Let's help developers together. 
 
 ---
 Reach out to me about:
-- **Developer education & docs:** I teach developers and lead systems of developer-facing resources. I can do both high-level planning and nuts-and-bolts implementation. Check out [How to Make a Docs Site: Shortcuts for Busy Devs](https://github.com/jablonskidev/how-to-make-a-docs-site) and my [conference talk](https://www.youtube.com/watch?v=N3mO4MEtpwA).
-- **DevOps:** As a Staff Education Engineer at CircleCI, I helped devs achieve velocity and confidence with the tools and best practices that help them move forward.
-- **NLP:** I love programming languages and natural languages equally. To see a sample of my work, google `nlp python`. My [tutorial](https://realpython.com/nltk-nlp-python/) is the first result.
-- **Interpreters:** I'm interested in programming languages as tools that are designed, built, maintained, and improved. I was the primary reviewer on the book *CPython Internals* by Anthony Shaw. I'm sharing my [study notes](https://github.com/jablonskidev/writing-an-interpreter-in-go) for *Writing and Interpreter in Go* by Thorsten Ball on GitHub.
+- **Developer education & docs:** I teach developers and lead systems of developer-facing resources. I can do both high-level planning and nuts-and-bolts implementation. I ran the curriculum at [Real Python](https://realpython.com/) and am a founding member of the [Python Documentation Editorial Board](https://peps.python.org/pep-0732/). I also coauthored the bestselling book [Python Basics](https://www.amazon.com/Python-Basics-Practical-Introduction-ebook/dp/B0BCN4H62C) and was the primary reviewer for [CPython Internals](https://www.amazon.com/dp/B0BCNSDSYP).
+- **DevOps & DevSecOps:** As a Staff Education Engineer at CircleCI, I helped devs achieve velocity and confidence with the tools and best practices that would help them move forward. As a Technical Instructional Designer at GitLab, I created effective training systems.
+- **Linux:** My love of open source has brought me back to Linux. I want to go deeper with understanding how it works and further with using it to solve real problems.
  
 --- 
 To see samples of my work, check out:
@@ -20,6 +19,5 @@ To see samples of my work, check out:
 
 ---
 Feel free to reach out:
-- [Twitter](https://twitter.com/jo_jablonski)
 - [LinkedIn](https://www.linkedin.com/in/joanna-jablonski/)
 - [jojab.dev](https:///www.jojab.dev)
