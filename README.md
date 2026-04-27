@@ -10,7 +10,7 @@ I’m a Context Engineer at [RelationalAI](https://relational.ai/). I’m also a
 
 * **Context engineering:** I design technical information that works as context for LLMs and agents as well as for humans.  
 * **Developer documentation and education:** I’ve owned editorial direction, information architecture, and the standards that govern technical content for developer audiences.  
-* **Python:** I help govern documentation in the Python ecosystem.
+* **Python:** I help govern Python's documentation.
 
 ---
 
