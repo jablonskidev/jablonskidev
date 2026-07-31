@@ -11,6 +11,7 @@ I’m a Context Engineer at [RelationalAI](https://relational.ai/). I’m also a
 * **Context engineering:** I design technical information that works as context for both humans and AI.  
 * **Developer documentation and education:** I’ve owned editorial direction, information architecture, and the standards that govern technical content for developer audiences.  
 * **Python:** I help govern Python's documentation.
+* **Linux:** I'm studying Linux digital forensics and incident response (DFIR).
 
 ---
 
