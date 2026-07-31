@@ -28,6 +28,10 @@ Developer-facing documentation & context engineering:
 - [How to Make a Docs Site: Shortcuts for Busy Devs:](https://github.com/jablonskidev/how-to-make-a-docs-site) After planning the replatforming of CircleCI's docs site, I condensed my knowledge for busy devs who are new to docs. I also gave a [conference talk](https://www.youtube.com/watch?v=N3mO4MEtpwA).
 - [Context Engineering:](https://github.com/jablonskidev/context-engineering) I'm writing about how I approach context engineering.
 
+Linux digital forensics and incident response (DFIR):
+- [Linux DFIR notes](https://github.com/jablonskidev/linux-dfir-notes): I'm keeping public study notes.
+- [Linux DFIR investigations](https://github.com/jablonskidev/linux-dfir-investigations): I'm documenting my hands-on investigations.
+
 ---
 ### Elsewhere
 - [LinkedIn](https://www.linkedin.com/in/joanna-jablonski/)
