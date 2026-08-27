@@ -4,6 +4,8 @@ I work on how technical information is authored, structured, and delivered for b
 
 I’m a Context Engineer at [RelationalAI](https://relational.ai/). I’m also a founding member of the [Python Documentation Editorial Board](https://peps.python.org/pep-0732/). I coauthored [Python Basics: A Practical Introduction to Python 3](https://www.amazon.ca/Python-Basics-Practical-Introduction/dp/1775093328).
 
+I like small companies where I can have a big impact by pivoting in a variety of directions. If you need someone who can work at the intersection of code, words, and people, let me know.
+
 ---
 
 ### What I work on
