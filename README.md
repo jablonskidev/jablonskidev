@@ -31,8 +31,9 @@ Developer education:
 - [Python Language Summit:](https://pyfound.blogspot.com/2021/05/the-2021-python-language-summit.html) I wrote technical articles about proposed changes to the Python language for the Python Software Foundation.
 - [Writing an Interpreter in Go: Study Notes & Code:](https://github.com/jablonskidev/writing-an-interpreter-in-go) I'm learning more about interpreters and sharing my knowledge.
 
-Linux digital forensics and incident response (DFIR):
-- [Linux DFIR notes](https://github.com/jablonskidev/linux-dfir-notes): I'm keeping public study notes.
+Linux:
+- [Linux With Joanna](https://github.com/jablonskidev/linux-with-joanna): I'm exploring Linux and taking you with me.
+- [Linux DFIR notes](https://github.com/jablonskidev/linux-dfir-notes): I'm keeping public study notes about Linux digital forensics and incident response (DFIR).
 - [Linux DFIR investigations](https://github.com/jablonskidev/linux-dfir-investigations): I'm documenting my hands-on investigations.
 
 ---
