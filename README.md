@@ -13,7 +13,7 @@ If you need someone who can work at the intersection of code, words, and people,
 * **Context engineering:** I create systems of information that work as context for AI so it can produce output that helps developers get things done. 
 * **Developer documentation and education:** I help developers get the most out of their tools. I handle both big-picture design and nuts-and-bolts implementation. I’ve owned editorial direction, information architecture, and the standards that govern technical content for developer audiences. I'm also happy to dig into the Python and YAML myself to create resources that are worth developers' time. I create AI workflows to generate developer-facing content. I do docs engineering work.
 * **Python:** I help govern Python's documentation as a founding member of the Python Documentation Editorial Board.
-* **Linux:** I'm studying Linux digital forensics and incident response (DFIR).
+* **Linux:** I'm studying various Linux topics.
 
 ---
 
