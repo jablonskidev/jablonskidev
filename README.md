@@ -32,6 +32,7 @@ Developer education:
 - [Writing an Interpreter in Go: Study Notes & Code:](https://github.com/jablonskidev/writing-an-interpreter-in-go) I'm learning more about interpreters and sharing my knowledge.
 
 Linux:
+- [Linux With Joanna](https://linuxwithjoanna.com): How does Linux really work? Let's find out together.
 - [Linux DFIR notes](https://github.com/jablonskidev/linux-dfir-notes): I'm keeping public study notes about Linux digital forensics and incident response (DFIR).
 
 ---
