@@ -1,6 +1,6 @@
 # Joanna Jablonski
 
-I work on how technical information is authored, structured, and delivered for both developers and the AI they work with.
+I make developer tools understandable to both humans and AI.
 
 I’m a Context Engineer at [RelationalAI](https://relational.ai/). I’m also a founding member of the [Python Documentation Editorial Board](https://peps.python.org/pep-0732/). I coauthored [Python Basics: A Practical Introduction to Python 3](https://www.amazon.ca/Python-Basics-Practical-Introduction/dp/1775093328). I write about Linux at [Linux With Joanna](https://linuxwithjoanna.com).
 
